@@ -54,7 +54,7 @@ I am a seasoned **Senior Security Network Engineer** with over 10 years of exper
 
 ## 📫 Contact
 - **GitHub:** [YourGitHubHandle](https://github.com/YourGitHubHandle)
-- **LinkedIn:** [www.linkedin.com/in/christinabfinn/kedInProfile](https://linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn:** [www.linkedin.com/in/christinabfinn](https://linkedin.com/in/YourLinkedInProfile)
 - **Email:** cbluefinn@gmail.com
 
 ---
