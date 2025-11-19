@@ -53,7 +53,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 - Collaborate with SOC analysts, engineers, and GRC teams to identify automation opportunities and embed AI into existing security infrastructure.
 - Analyze and correlate data from multiple sources using AI-assisted tools to detect threats and anomalies.
 - Create dashboards and reporting tools (e.g., Splunk, Sentinel) that reflect AI-enhanced threat intelligence insights.
-- *onitor and evaluate s the effectiveness of AI-enhanced security processes, continuously refining prompt strategies and automation logic.
+- Monitor and evaluate s the effectiveness of AI-enhanced security processes, continuously refining prompt strategies and automation logic.
 - Monitors, evaluates, and refine s AI-enhanced security processes, prompt strategies, and automation logic.
 - Assist in developing and maintaining documentation, runbooks, and SOPs for AI-integrated workflows.
 - Participate in on-call rotations and provide advanced analysis support during critical incidents.
