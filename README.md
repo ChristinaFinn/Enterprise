@@ -27,15 +27,13 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 - **Description:** Bash and Python scripts for packet capture analysis and anomaly detection.
 - **Tech Stack:** Wireshark, Zeek, Python, Wireshark, Metasploit, & more 
 - **Outcome:** Identified zero-day exploit attempts in lab simulations.
-
 ---
-
 ## 🛠️ Skills Matrix
 
 | Category            | Tools/Technologies |
 |---------------------|--------------------|
-| **Network Security** | Firewalls, IDS/IPS, VPNs, Zero Trust |
-| **Monitoring**       | Splunk, ELK, Zeek, Suricata |
+| **Network Security** | Firewalls, IDS/IPS,DLP VPNs, Zero Trust Endpoints |
+| **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Cisco ASA, Cisco UCS, Splunk, ELK, Zeek, Suricata |
 | **Automation**       | Python, Bash, PowerShell |
 | **Cloud Security**   | AWS Security Groups, Azure NSGs, GCP IAM |
 | **Protocols**        | TCP/IP, DNSSEC, TLS, BGP |
