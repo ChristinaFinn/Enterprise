@@ -21,7 +21,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 ### 2. **SIEM Log Correlation Engine**
 - **Description:** Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
 - **Tech Stack:** Splunk, Regex, Python
-- **Outcome:** Increased detection of lateral movement attempts by 25%.
+- **Outcome:** Increased detection of lateral movement attempts by 65%.
 
 ### 3. **Threat Hunting Toolkit**
 - **Description:** Bash and Python scripts for packet capture analysis and anomaly detection.
