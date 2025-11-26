@@ -36,7 +36,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 | **Network Security** | Firewalls, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF
 | **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata | Honeypots
 | **Automation**       | Python, Bash, PowerShell |
-| **Cloud Security**   | vmware SME, AWS Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions,
+| **Cloud Security**   | vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions,
 | **Protocols**        | TCP/IP, DNSSEC, TLS, BGP | OSPF & Legacy Protocol transformations
 
 
