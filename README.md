@@ -7,7 +7,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 ## 🔐 About Me
 - 🌐 Expertise in **Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration**
 - 🛡️ Certified in **CISSP in progress, CCNP Security, CEHv13**
-- 🧑‍💻 Skilled in **Python, Bash, PowerShell** for security automation and QA testing 
+- 🧑‍💻 Skilled in **Python, Bash, PowerShell** for security pentesting, automation and QA testing 
 - 📊 Experienced with tools like **Wireshark, Snort, Splunk, Nmap**
 - ☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
 - Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software, UPC Medium-Voltage Datacenter Distribution Design 
@@ -15,13 +15,13 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 ## 📂 Featured Projects
 
 ### 1. **Automated Firewall Rule Audit**
-- **Description:** Python script to detect misconfigurations in firewall rules and generate compliance reports.
-- **Tech Stack:** Python, Pandas, JSON
-- **Outcome:** Reduced audit time by 60% and improved compliance accuracy.
+- **Description:** CI/CD Pipeline to firewall rules and generate compliance reports acros the board.
+- **Tech Stack:** Python, JSON
+- **Outcome:** Reduced audit time by 80% and improved compliance accuracy.
 
 ### 2. **SIEM Log Correlation Engine**
 - **Description:** Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
-- **Tech Stack:** Splunk, Regex, Python
+- **Tech Stack:** Splunk, Python, 
 - **Outcome:** Increased detection of lateral movement attempts by 65%.
 
 ### 3. **Threat Hunting Toolkit**
@@ -33,7 +33,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 
 | Category            | Tools/Technologies |
 |---------------------|--------------------|
-| **Network Security** | Firewalls, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF
+| **Network Security** | Firewalls, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF API, Java, 
 | **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata | Honeypots
 | **Automation**       | Python, Bash, PowerShell |
 | **Cloud Security**   | vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions, SCADA, security, mission systems, cloud
