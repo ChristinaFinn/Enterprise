@@ -15,7 +15,7 @@ Greetings, I am a Seasoned **Senior Security Network Engineer** with over 15+ ye
 ## 📂 Featured Projects
 
 ### 1. **Automated Firewall Rule Audit**
-- **Description:** CI/CD Pipeline to firewall rules and generate compliance reports acros the board.
+- **Description:** CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
 - **Tech Stack:** Python, JSON
 - **Outcome:** Reduced audit time by 80% and improved compliance accuracy.
 
