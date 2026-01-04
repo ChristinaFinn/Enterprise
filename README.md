@@ -61,7 +61,7 @@ Greetings, I am a Seasoned **Senior Security Cyber Network Engineer** with over 
 - Stay current with emerging AI technologies and cybersecurity trends to ensure best-in-class practices.
 ---
 ## 📫 Contact
-- **GitHub:** [https://github.com/cbluefinn/IT](https://github.com/YourGitHubHandle)
+- **GitHub:** https://github.com/ChristinaFinn/Enterprise
 - **LinkedIn:** [www.linkedin.com/in/christinabfinn](https://linkedin.com/in/YourLinkedInProfile)
 - **Email:** cbluefinn@gmail.com
 
