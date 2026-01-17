@@ -16,7 +16,7 @@ Greetings, I am a Seasoned **Senior Security Cyber Network Engineer** with over 
 
 ### 1. **Automated Firewall Rule Audit**
 - **Description:** CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-- **Tech Stack:** Python, JSON
+- **Tech Stack:** Python, JSON, C#, C++
 - **Outcome:** Reduced audit time by 80% and improved compliance accuracy.
 
 ### 2. **SIEM Log Correlation Engine**
