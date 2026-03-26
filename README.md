@@ -6,7 +6,7 @@ Greetings,  I' m Seasoned **Senior Security Cyber Network Engineer** with over 1
 ---
 ## 🔐 About Me
 - 🌐 Expertise in **Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration** Medium-Voltage Datacenter Infrastructure Active Directory Expert
-- 🛡️ Certified in **CISSP in progress, CCNP Security, CEHv13**
+- 🛡️ Certified in **CISSP in progress, Checkpoint, LTD Expert, CCNP Security, CEHv13**
 - 🧑‍💻 Skilled in **Python, Bash, PowerShell** for security pentesting, automation and QA testing 
 - 📊 Experienced with tools  **Wireshark, Splunk, Nmap**
 - ☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
