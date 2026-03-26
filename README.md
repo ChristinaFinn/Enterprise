@@ -1,14 +1,14 @@
 # 👨‍💻 Sr. Security, Cyber Network Systems Engineer | Portfolio
 
-Welcome to my Professional GitHub Portfolio!  
-Greetings, I am a Seasoned **Senior Security Cyber Network Engineer** with over 15+ years of experience in planning, designing, Securing, and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDPR | NIST | ISO | PCI | SOX | HITRUST | HIPPA Compliance and Stealth Network Security | ICS Programming Logics PLC........ask me about it. 
+Welcome to my Professional GitHub Portfolio   
+Greetings,  I' m Seasoned **Senior Security Cyber Network Engineer** with over 15+ years of experience in planning, designing, Securing,Implementing and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDPR | NIST | ISO | PCI | SOX | HITRUST | HIPPA Compliance and Stealth Network Security | ICS Programming Logics PLC........ask me about it. 
 
 ---
 ## 🔐 About Me
 - 🌐 Expertise in **Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration** Medium-Voltage Datacenter Infrastructure Active Directory Expert
 - 🛡️ Certified in **CISSP in progress, CCNP Security, CEHv13**
 - 🧑‍💻 Skilled in **Python, Bash, PowerShell** for security pentesting, automation and QA testing 
-- 📊 Experienced with tools like **Wireshark, Snort, Splunk, Nmap**
+- 📊 Experienced with tools  **Wireshark, Splunk, Nmap**
 - ☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
 - Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software, UPC Medium-Voltage Datacenter Distribution Design 
 ---
@@ -16,7 +16,7 @@ Greetings, I am a Seasoned **Senior Security Cyber Network Engineer** with over 
 
 ### 1. **Automated Firewall Rule Audit**
 - **Description:** CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-- **Tech Stack:** Python, JSON, C#, C++
+- **Tech Stack:** Python, JSON, APIs, 
 - **Outcome:** Reduced audit time by 80% and improved compliance accuracy.
 
 ### 2. **SIEM Log Correlation Engine**
@@ -33,32 +33,30 @@ Greetings, I am a Seasoned **Senior Security Cyber Network Engineer** with over 
 
 | Category            | Tools/Technologies |
 |---------------------|--------------------|
-| **Network Security** | Firewalls, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF API, Java, 
+| **Network Security** | Nex-Gen Firewalls, Dashboard UX, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF API, Java, 
 | **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata | Honeypots
-| **Automation**       | Python, Bash, PowerShell |
-| **Cloud Security**   | vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions, SCADA, security, mission systems, cloud
+| **Automation**       | Bash, PowerShell, Python |
+| **Cloud Security**   | vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions, SCADA ICS, Mission Control Systems, cloud
 | **Protocols**        | TCP/IP, DNSSEC, TLS, BGP | OSPF & Legacy Protocol transformations
 
-
 ---
-
 ## 📜 Case Studies
 - **Incident Response:** Automated triage workflow reduced response time from 2 hours to 20 minutes.
 - **Network Hardening:** Designed secure segmentation for a Fortune 500 company, reducing attack surface by 60%.
 - **Business Continuity:** Controls and Disaster Recovery, Technical writting, diagrams and implemetation post QA testing in silo environment.
 - **Cloud Security:** Implemented IAM misconfiguration detection for AWS, preventing privilege escalation risks.
-- Leverage AI tools (e.g., Microsoft Copilot 365, Security Copilot) to streamline security operations, automate documentation, and support incident response activities.
+- Leverage AI tools (e.g., Microsoft Copilot 365 (employees), Security Copilot to streamline security operations, automate documentation, and support incident response activities.
 - Develop and maintain AI prompts and workflows tailored for security use cases, including threat hunting, incident triage, and compliance reporting.
 - Integrate AI tools into daily security operations to enhance analyst productivity and reduce response times.
 - Design, implement, and manage AI-based agents and automations for real-time alert enrichment, log analysis, and contextual threat intelligence.
-- Collaborate with SOC analysts, engineers, and GRC teams to identify automation opportunities and embed AI into existing security infrastructure.
-- Analyze and correlate data from multiple sources using AI-assisted tools to detect threats and anomalies.
-- Create dashboards and reporting tools (e.g., Splunk, Sentinel) that reflect AI-enhanced threat intelligence insights.
+- High level Collaboratation with SOC analysts, engineers, and GRC teams to identify automation opportunities and embed AI into existing security infrastructure.
+- Analyze Vulnerability Assesments and correlate data from Application multiple sources using AI-assisted tools to detect threats and anomalies.
+- Create Company Custom SIEM Dashboards and reporting tools (e.g., Splunk, Sentinel) that reflect AI-enhanced threat intelligence insights.
 - Monitor and evaluate the effectiveness of AI-enhanced security processes, continuously refining prompt strategies and automation logic.
 - Monitors, evaluates, and refine s AI-enhanced security processes, prompt strategies, and automation logic.
 - Assist in developing and maintaining documentation, runbooks, and SOPs for AI-integrated workflows.
-- Participate in on-call rotations and provide advanced analysis support during critical incidents.
-- Stay current with emerging AI technologies and cybersecurity trends to ensure best-in-class practices.
+- Participate in on-call rotations and provide advanced analysis support during critical disaster incidents.
+- Stay current with emerging AI technologies and cybersecurity trends to ensure best practices.
 ---
 ## 📫 Contact
 - **GitHub:** https://github.com/ChristinaFinn/Enterprise
