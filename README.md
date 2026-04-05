@@ -1,14 +1,14 @@
 # 👨‍💻 Sr. Security, Cyber Network Systems Engineer | Portfolio
 
 Welcome to my Professional GitHub Portfolio   
-Greetings,  I' m Seasoned **Senior Security Cyber Network Engineer** with over 15+ years of experience in planning, designing, Securing,Implementing and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDPR | NIST | ISO | PCI | SOX | HITRUST | HIPPA Compliance and Stealth Network Security | ICS Programming Logics PLC........ask me about it. What a magnificant journey at 99.9 Uptime
+Greetings,  I' m Seasoned **Senior Security Cyber Network Engineer** with experience in planning, designing, Securing,Implementing and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDPR | NIST | ISO | PCI | SOX | HITRUST | HIPPA Compliance and Stealth Network Security | ICS Programming Logics PLC........ask me about it. What a magnificant journey at 99.9 Uptime
 
 ---
 ## 🔐 About Me
 - 🌐 Expertise in **Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration** Medium-Voltage Datacenter Infrastructure Active Directory Expert
 - 🛡️ Certified in **CISSP in progress, Checkpoint, LTD Expert, CCNP Security, CEHv13**
-- 🧑‍💻 Skilled in **Pseudocode, Python Query, Bash, PowerShell** for security pentesting, automation and QA testing 
-- 📊 Experienced with tools  **Wireshark, Splunk, Nmap**
+- 🧑‍💻 Skilled in **Pseudocode, Python Query, Bash, Shell, PowerShell,  for security pentesting, automation and QA testing 
+- 📊 Experienced with tools  **Wireshark, Splunk, Nmap** many more
 - ☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
 - Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software, UPC Medium-Voltage Datacenter Distribution Design 
 ---
