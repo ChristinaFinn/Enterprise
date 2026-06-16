@@ -60,7 +60,7 @@ Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experi
 ---
 ## 📫 Contact
 - **GitHub:** https://github.com/ChristinaFinn/Enterprise
-- **LinkedIn:** [www.linkedin.com/in/christinabfinn](https://linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn:** https://www.linkedin.com/in/christinabfinn/
 - **Email:** cbluefinn@gmail.com
 
 ---
