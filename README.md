@@ -35,7 +35,7 @@ Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experi
 |---------------------|--------------------|
 | **Network Security** | Nex-Gen Firewalls, Dashboard UX, IDS/IPS/DLP VPNs, Zero Trust Endpoints | WAF API, Java, 
 | **Monitoring**       | SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata | Honeypots
-| **Automation**       | Bash, PowerShell, Python |
+| **Automation**       | Bash, PowerShell, Python | JSON, APIs, COM
 | **Cloud Security**   | vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM | OWASP, CSA, Linux Open Distributions, SCADA ICS, Mission Control Systems, cloud
 | **Protocols**        | TCP/IP, DNSSEC, TLS, BGP | OSPF & Legacy Protocol transformations
 
