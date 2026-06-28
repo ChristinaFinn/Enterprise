@@ -16,8 +16,8 @@ Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experi
 
 ### 1. **Automated Firewall Rule Audit**
 - **Description:** CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-- **Tech Stack:** Python, JSON, APIs, 
-- **Outcome:** Reduced audit time by 80% and improved compliance accuracy.
+- **Tech Stack:** Python, JSON, APIs, COM
+- **Outcome:** Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery 
 
 ### 2. **SIEM Log Correlation Engine**
 - **Description:** Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
@@ -26,7 +26,7 @@ Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experi
 
 ### 3. **Threat Hunting Toolkit**
 - **Description:** Bash and Python scripts for packet capture analysis and anomaly detection.
-- **Tech Stack:** Wireshark, Zeek, Python, Wireshark, Metasploit, & more 
+- **Tech Stack:** CEH, CHFI
 - **Outcome:** Identified zero-day exploit attempts in lab simulations.
 ---
 ## 🛠️ Skills Matrix
