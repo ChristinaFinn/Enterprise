@@ -1,7 +1,8 @@
-# 👨‍💻 Sr. Security, Cyber Network Systems Engineer | Portfolio
+👨‍💻 Sr. Security & Cyber Network Systems Engineer | Portfolio
+Welcome to my Professional GitHub Portfolio.
+I am a seasoned Senior Cyber Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
 
-Welcome to my Professional GitHub Portfolio   
-Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experience in planning, designing, Securing,Implementing and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDPR | NIST | ISO | PCI | SOX | HITRUST | HIPPA Compliance and Stealth Network Security | ICS Programming Logics PLC........ask me about it. What a magnificant journey at 99.9 Uptime
+I specialize in GRC, GDPR, NIST, ISO, PCI, SOX, HITRUST, HIPAA compliance, stealth network security, and ICS/PLC programming logic. My career has been a remarkable journey delivering 99.9% uptime across mission‑critical infrastructures.
 ---
 🔐 About Me
 I am a seasoned Senior Cyber Network Security Engineer with deep expertise in securing, designing, and optimizing enterprise‑scale network and cloud infrastructures. My work spans Zero‑Trust Architecture, advanced firewall engineering, SIEM integration, cloud security, datacenter operations, and automation for global environments.
