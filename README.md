@@ -5,24 +5,26 @@ Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experi
 
 ---
 ## 🔐 About Me
-- 🌐 Expertise in **Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration** Medium-Voltage Datacenter Infrastructure Active Directory Expert
-- 🛡️ Certified in **CISSP in progress, Checkpoint, LTD Expert, CCNP Security, CEHv13**
-- 🧑‍💻 Skilled in **Pseudocode, Python Query, Bash, Shell, PowerShell,  for security pentesting, automation and QA testing 
-- 📊 Experienced with tools  **Wireshark, Splunk, Nmap** many more
-- ☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
-- Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software, UPC Medium-Voltage Datacenter Distribution Design 
+- 🌐 Expertise in Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration Medium-Voltage Datacenter Infrastructure Active Directory Expert
+🛡️ Certified in CISSP in progress, Checkpoint, LTD Expert, CCNP Security, CEHv13
+🧑‍💻 Skilled in **Pseudocode, Python Query, Bash, Shell, PowerShell, for security pentesting, automation and QA testing
+📊 Experienced with tools Wireshark, Splunk, Nmap many more
+☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
+Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software, UPC Medium-Voltage Datacenter Distribution Design
 ---
 ## 📂 Featured Projects
-
-### 1. **Automated Firewall Rule Audit**
-- **Description:** CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-- **Tech Stack:** Python, JSON, APIs, COM
-- **Outcome:** Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery 
-
-### 2. **SIEM Log Correlation Engine**
-- **Description:** Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
-- **Tech Stack:** Splunk, Python, 
-- **Outcome:** Increased detection of lateral movement attempts by 65%.
+1. Automated Firewall Rule Audit
+Description: CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
+Tech Stack: Python, JSON, APIs, COM
+Outcome: Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery
+2. SIEM Log Correlation Engine
+Description: Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
+Tech Stack: Splunk, Python,
+Outcome: Increased detection of lateral movement attempts by 65%.
+3. Threat Hunting Toolkit
+Description: Bash and Python scripts for packet capture analysis and anomaly detection.
+Tech Stack: CEH, CHFI
+Outcome: Identified zero-day exploit attempts in lab simulations.
 
 ### 3. **Threat Hunting Toolkit**
 - **Description:** Bash and Python scripts for packet capture analysis and anomaly detection.
