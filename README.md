@@ -1,11 +1,11 @@
 👨‍💻 Sr. Security & Cyber Network Systems Engineer | Portfolio
 Welcome to my Professional GitHub Portfolio.
-I am a seasoned Senior Cyber Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
+As a Senior Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
 
-I specialize in GRC, GDPR, NIST, ISO, PCI, SOX, HITRUST, HIPAA compliance, stealth network security, and ICS/PLC programming logic. My career has been a remarkable journey delivering 99.9% uptime across mission‑critical infrastructures.
+Specialties: in GRC, GDPR, NIST, ISO, PCI, SOX, HITRUST, HIPAA compliance, Stealth Networks, Top Enterprise Industry Vendor and ICS/PLC programming logic. My career has been a journey delivering 99.9% uptime across mission‑critical infrastructures Datacenters.
 ---
 🔐 About Me
-I am a seasoned Senior Cyber Network Security Engineer with deep expertise in securing, designing, and optimizing enterprise‑scale network and cloud infrastructures. My work spans Zero‑Trust Architecture, advanced firewall engineering, SIEM integration, cloud security, datacenter operations, and automation for global environments.
+Seasoned Senior Cyber Network Security Engineer with deep expertise in securing, designing, and optimizing enterprise‑scale network and cloud infrastructures. My work spans Zero‑Trust Architecture, advanced firewall engineering, SIEM integration, cloud security, datacenter operations, and automation for global environments.
 
 🌐 Core Expertise
 Network Security Architecture  
