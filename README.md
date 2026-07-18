@@ -2,15 +2,31 @@
 
 Welcome to my Professional GitHub Portfolio   
 Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experience in planning, designing, Securing,Implementing and optimizing securing Enterprise Networks Globally. My focus is on **Zero-Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection and Security Defense for Automation, API's, DevOps and Monitoring.** GRC | GDPR | NIST | ISO | PCI | SOX | HITRUST | HIPPA Compliance and Stealth Network Security | ICS Programming Logics PLC........ask me about it. What a magnificant journey at 99.9 Uptime
-
 ---
-## 🔐 About Me
-🌐 Expertise in Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration Medium-Voltage Datacenter Infrastructure Active Directory Expert
-🛡️ Certified in CISSP in progress, Checkpoint, LTD Expert, CCNP Security, CEHv13
-🧑‍💻 Skilled in **Pseudocode, Python Query, Bash, Shell, PowerShell, for security pentesting, automation and QA testing
-📊 Experienced with tools Wireshark, Splunk, Nmap many more
-☁️ Cloud Security Public & Private: **vmware SME, AWS, Azure, GCP IAM & Stealth Networking ** Linux/ Unix Firewalls manual Architect w/ Global Protocols
-Storage Engineer, Fibre Channeling, Zoning, API Security and DevOps custom Software, UPC Medium-Voltage Datacenter Distribution Design
+🔐 About Me
+I am a seasoned Senior Cyber Network Security Engineer with deep expertise in securing, designing, and optimizing enterprise‑scale network and cloud infrastructures. My work spans Zero‑Trust Architecture, advanced firewall engineering, SIEM integration, cloud security, datacenter operations, and automation for global environments.
+
+🌐 Core Expertise
+Network Security Architecture  
+Advanced design and hardening of enterprise networks, including IDS/IPS, DLP, VPNs, Zero‑Trust endpoints, and stealth networking.
+
+Intrusion Detection & SIEM Integration  
+Skilled in integrating and tuning SIEM platforms such as Splunk, Check Point LTD, Palo Alto, Fortinet, Cisco ASA/UCS, Zeek, Suricata, and CrowdStrike.
+
+Medium‑Voltage Datacenter Infrastructure  
+Experience with datacenter distribution design, Fibre Channel zoning, SAN architecture, and high‑availability systems.
+
+Active Directory & Identity Security  
+Expert in AD, IAM, MFA, SSO, LDAP, and Federated Services across hybrid cloud environments.
+
+🛡️ Certifications & Credentials
+CISSP (In Progress)
+
+Check Point Certified Expert (LTD Expert)
+
+CCNP Security
+
+CEHv13
 ---
 ## 📂 Featured Projects
 1. Automated Firewall Rule Audit
