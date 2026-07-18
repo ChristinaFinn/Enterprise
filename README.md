@@ -5,7 +5,7 @@ Greetings,  I' m Seasoned **Senior Cyber Network Security Engineer** with experi
 
 ---
 ## 🔐 About Me
-- 🌐 Expertise in Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration Medium-Voltage Datacenter Infrastructure Active Directory Expert
+🌐 Expertise in Network Security Architecture, Intrusion Detection/Prevention, and SIEM integration Medium-Voltage Datacenter Infrastructure Active Directory Expert
 🛡️ Certified in CISSP in progress, Checkpoint, LTD Expert, CCNP Security, CEHv13
 🧑‍💻 Skilled in **Pseudocode, Python Query, Bash, Shell, PowerShell, for security pentesting, automation and QA testing
 📊 Experienced with tools Wireshark, Splunk, Nmap many more
@@ -40,23 +40,62 @@ Automation	Bash, PowerShell, Python
 Cloud Security	vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM
 Protocols	TCP/IP, DNSSEC, TLS, BGP
 
-### 📜 Case Studies
--Incident Response: Automated triage workflow reduced response time from 2 hours to 20 minutes.
--Network Hardening: Designed secure segmentation for a Fortune 500 company, reducing attack surface by 60%.
--Business Continuity: Controls and Disaster Recovery, Technical writting, diagrams and implemetation post QA testing in silo environment.
--Cloud Security: Implemented IAM misconfiguration detection for AWS, preventing privilege escalation risks.
--Leverage AI tools (e.g., Microsoft Copilot 365 (employees), Security Copilot to streamline security operations, automate documentation, and support incident response activities.
-Develop and maintain AI prompts and workflows tailored for security use cases, including threat hunting, incident triage, and compliance reporting.
-Integrate AI tools into daily security operations to enhance analyst productivity and reduce response times.
-Design, implement, and manage AI-based agents and automations for real-time alert enrichment, log analysis, and contextual threat intelligence.
-High level Collaboratation with SOC analysts, engineers, and GRC teams to identify automation opportunities and embed AI into existing security infrastructure.
-Analyze Vulnerability Assesments and correlate data from Application multiple sources using AI-assisted tools to detect threats and anomalies.
-Create Company Custom SIEM Dashboards and reporting tools (e.g., Splunk, Sentinel) that reflect AI-enhanced threat intelligence insights.
-Monitor and evaluate the effectiveness of AI-enhanced security processes, continuously refining prompt strategies and automation logic.
-Monitors, evaluates, and refine s AI-enhanced security processes, prompt strategies, and automation logic.
-Assist in developing and maintaining documentation, runbooks, and SOPs for AI-integrated workflows.
-Participate in on-call rotations and provide advanced analysis support during critical disaster incidents.
-Stay current with emerging AI technologies and cybersecurity trends to ensure best practices.
+📜 Case Studies & AI‑Enhanced Security Operations
+🔥 Incident Response
+Automated triage workflows reduced response time from 2 hours to 20 minutes.
+
+Implemented scripted decision trees and enrichment logic to accelerate analyst actions during critical incidents.
+
+🛡️ Network Hardening
+Engineered secure segmentation for a Fortune 500 enterprise, reducing attack surface by 60%.
+
+Applied Zero‑Trust principles, micro‑segmentation, and firewall rule optimization across multi‑tenant environments.
+
+🔄 Business Continuity
+Designed and implemented disaster recovery controls, technical documentation, and architectural diagrams.
+
+Executed post‑QA deployment in isolated silo environments to ensure stability and resilience.
+
+☁️ Cloud Security
+Built IAM misconfiguration detection for AWS, preventing privilege‑escalation risks.
+
+Automated identity‑based alerts and remediation workflows to secure cloud access paths.
+
+🤖 AI‑Enhanced Security Operations
+⚙️ AI‑Driven Automation & Security Copilot Integration
+Leveraged Microsoft Copilot 365 and Security Copilot to streamline security operations, automate documentation, and support incident response.
+
+Developed and maintained AI‑driven prompts and workflows for threat hunting, incident triage, compliance reporting, and vulnerability correlation.
+
+🧠 AI‑Based Agents & Real‑Time Enrichment
+Designed, implemented, and managed AI‑based agents for real‑time alert enrichment, log analysis, and contextual threat intelligence.
+
+Integrated AI into daily SOC operations to enhance analyst productivity and reduce response times.
+
+🤝 Cross‑Team Collaboration
+Collaborated with SOC analysts, security engineers, and GRC teams to identify automation opportunities and embed AI into existing security infrastructure.
+
+Improved workflow efficiency by aligning AI‑enhanced processes with enterprise governance and compliance requirements.
+
+🔍 AI‑Assisted Threat & Vulnerability Analysis
+Analyzed vulnerability assessments and correlated multi‑source application data using AI‑assisted tools to detect threats and anomalies.
+
+Built custom SIEM dashboards (Splunk, Sentinel) enriched with AI‑driven threat intelligence insights.
+
+📈 Continuous Improvement
+Monitored and evaluated the effectiveness of AI‑enhanced security processes, continuously refining prompt strategies and automation logic.
+
+Maintained documentation, runbooks, and SOPs for AI‑integrated workflows to ensure operational consistency.
+
+🚨 Critical Incident Support
+Participated in on‑call rotations and provided advanced analysis support during disaster‑level incidents.
+
+Ensured rapid response and continuity during high‑severity events through AI‑augmented triage and enrichment.
+
+🔭 Staying Ahead of Emerging Technologies
+Remained current with emerging AI technologies, cybersecurity trends, and best practices.
+
+Continuously adapted automation strategies to align with evolving threat landscapes and enterprise needs.
 
 📫 Contact
 GitHub: https://github.com/ChristinaFinn/Enterprise
