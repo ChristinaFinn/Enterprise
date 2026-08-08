@@ -27,12 +27,11 @@ Check Point Certified Expert (LTD Expert)
 
 CCNP Security
 
-CEHv13
 ---
 ## 📂 Featured Projects
 1. Automated Firewall Rule Audit
 Description: CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-Tech Stack: Python, JSON, APIs, COM
+Tech Stack: Python, JSON, APIs, COM, C, Perl, Unix Shell
 Outcome: Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery
 2. SIEM Log Correlation Engine
 Description: Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
@@ -117,4 +116,3 @@ Continuously adapted automation strategies to align with evolving threat landsca
 📫 Contact
 GitHub: https://github.com/ChristinaFinn/Enterprise
 LinkedIn: https://www.linkedin.com/in/christinabfinn/
-Email: cbluefinn@gmail.com
