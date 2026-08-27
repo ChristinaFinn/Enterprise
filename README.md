@@ -113,6 +113,4 @@ Remained current with emerging AI technologies, cybersecurity trends, and best p
 
 Continuously adapted automation strategies to align with evolving threat landscapes and enterprise needs.
 
-📫 Contact
-GitHub: https://github.com/ChristinaFinn/Enterprise
-LinkedIn: https://www.linkedin.com/in/christinabfinn/
+📫 Contact https://www.linkedin.com/In/cbluerodriguez
