@@ -31,7 +31,7 @@ CCNP Security
 ## 📂 Featured Projects
 1. Automated Firewall Rule Audit
 Description: CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-Tech Stack: Python, JSON, APIs, COM, C, Perl, Unix Shell
+Tech Stack: Python, JSON, APIs, COM, C, Perl, Unix, Shell
 Outcome: Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery
 2. SIEM Log Correlation Engine
 Description: Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
@@ -54,8 +54,7 @@ Network Security	Nex-Gen Firewalls, Dashboard UX, IDS/IPS/DLP VPNs, Zero Trust E
 Monitoring	SIEM Checkpoint LTD, Palo Alto, Fortinet, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata
 Automation	Bash, PowerShell, Python
 Cloud Security	vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM
-Protocols	TCP/IP, DNSSEC, TLS, BGP
-
+Protocols	TCP/IP, DNSSEC, TLS, BGP, OWASP Top 10, OSRM api
 📜 Case Studies & AI‑Enhanced Security Operations
 🔥 Incident Response
 Automated triage workflows reduced response time from 2 hours to 20 minutes.
