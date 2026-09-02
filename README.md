@@ -9,7 +9,7 @@ Seasoned Senior Cyber Network Security Engineer with deep expertise in securing,
 
 🌐 Core Expertise
 Network Security Architecture  
-Advanced design and hardening of enterprise networks, including IDS/IPS, DLP, VPNs, Zero‑Trust endpoints, and stealth networking.
+Advanced design and hardening of enterprise networks, including VPNs, Zero‑Trust endpoints, and stealth networking.
 
 Intrusion Detection & SIEM Integration  
 Skilled in integrating and tuning SIEM platforms such as Splunk, Check Point LTD, Palo Alto, Fortinet, Cisco ASA/UCS, Zeek, Suricata, and CrowdStrike.
@@ -18,14 +18,14 @@ Medium‑Voltage Datacenter Infrastructure
 Experience with datacenter distribution design, Fibre Channel zoning, SAN architecture, and high‑availability systems.
 
 Active Directory & Identity Security  
-Expert in AD, IAM, MFA, SSO, LDAP, and Federated Services across hybrid cloud environments.
+Expert in AD, IAM, MFA, SSO, LDAP, and Federated Services across hybrid Private & Public cloud environments.
 
 🛡️ Certifications & Credentials
 CISSP (In Progress)
 
 Check Point Certified Expert (LTD Expert)
 
-CCNP Security
+CCNP Security 
 
 ---
 ## 📂 Featured Projects
